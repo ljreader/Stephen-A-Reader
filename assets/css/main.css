@@ -262,6 +262,11 @@ body {
     color: white;
 }
 
+#interests h5, bottom {
+    padding-bottom: 25px;
+}
+
+
 #interests d {
     padding-top: 60px;
 }
