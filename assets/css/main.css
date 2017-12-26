@@ -214,8 +214,8 @@ body {
 
 #portfolio {
     background: #2c3e50;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 75px;
+    padding-bottom: 75px;
     color: white;
 }
 
@@ -228,7 +228,7 @@ body {
 }
 
 #portfolio d {
-    padding-top: 60px;
+    padding-top: 75px;
 }
 
 #portfolio p {
@@ -253,8 +253,8 @@ body {
     
 #interests {
     background: #2c3e50;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 75px;
+    padding-bottom: 75px;
     color: white;
 }
 
@@ -332,8 +332,8 @@ body {
   /* Global Values */
   
   .desc {
-      padding-top: 60px;
-      padding-bottom: 60px;
+      padding-top: 75px;
+      padding-bottom: 75px;
   }
   
   .desc p {
